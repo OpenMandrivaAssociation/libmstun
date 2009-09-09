@@ -2,7 +2,7 @@
 %define oname	mstun
 %define version 0.5.0
 %define svn	3565
-%define release %mkrel %svn.1
+%define release %mkrel %svn.2
 
 %define major	0
 %define libname %mklibname %{oname} %major
